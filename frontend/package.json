@@ -54,6 +54,9 @@
     "prettier": "^2.8.1",
     "vitest": "^0.29.0"
   },
+  "engines": {
+    "yarn": "1.22.19"
+  },
   "resolutions": {
     "@nuxtjs/i18n/**/ufo": "0.7.9",
     "vue-template-compiler": "2.7.14",
